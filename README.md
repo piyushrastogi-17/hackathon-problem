@@ -5,7 +5,7 @@ This repo contains my hackathon submission.
 
 ## team member
 Piyush Rastogi (Team Leader)  [https://github.com/piyushrastogi-17]
-Parimarjan Shukla
+Parimarjan Shukla             [https://github.com/believerbl]
 Shashwat Tiwari               [https://github.com/Shashwat-web]
 Pranjal Rastogi               [https://github.com/pranjal-25-hue]
 
