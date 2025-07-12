@@ -6,7 +6,7 @@ This repo contains my hackathon submission.
 ## team member
 Piyush Rastogi (Team Leader)  [https://github.com/piyushrastogi-17]
 Parimarjan Shukla
-Shashwat Tiwari
+Shashwat Tiwari  [https://github.com/Shashwat-web]
 Pranjal Rastogi  [https://github.com/pranjal-25-hue]
 
 # problem-statement
